@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  font-family: "Kokila";
+}
+body {
+}
+form{
+   background-color: white;
+}
+pre.specialdesign {
+  border: 3px solid black;
+  background-color: lightblue;
+  padding: 10px;
+}
+textarea{
+  margin: 30px;
+}
+a{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  color: lightblue;
+  text-decoration: underline;
+}
